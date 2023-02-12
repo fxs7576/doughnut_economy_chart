@@ -1,0 +1,228 @@
+[
+    {
+        "name": "Social Foundation",
+        "description": "The boundary to ensure that no one is left falling short on life's essentials.",
+        "data": [
+            {
+                "country_id": "AFG",
+                "country_name": "Afghanistan",
+                "metric": [
+                    {
+                        "metric_name": "Clean cooking",
+                        "metric_description": "Lacking access to clean fuels and technologies for cooking is the proportion of total population primarily lacking access to clean cooking fuels and technologies for cooking. Under WHO guidelines, kerosene is excluded from clean cooking fuels.",
+                        "metric_category": "Energy",
+                        "metric_value_ideal": 0,
+                        "metric_id": "Complementary of EG.CFT.ACCS.ZS",
+                        "metric_value_display": 66.8,
+                        "metric_value_current": 33.2,
+                        "metric_year": 2020,
+                        "metric_source": "World Bank, Sustainable Energy for All (SE4ALL) database from WHO Global Household Energy database."
+                    },
+                    {
+                        "metric_name": "Electricity",
+                        "metric_description": "Lacking access to electricity is the percentage of population without access to electricity. Electrification data are collected from industry, national surveys and international sources.",
+                        "metric_category": "Energy",
+                        "metric_value_ideal": 0,
+                        "metric_id": "Complementary of EG.ELC.ACCS.ZS",
+                        "metric_value_display": 2.3000030517577983,
+                        "metric_value_current": 97.6999969482422,
+                        "metric_year": 2020,
+                        "metric_source": "World Bank, Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking Framework led jointly by the World Bank, International Energy Agency, and the Energy Sector Management Assistance Program."
+                    },
+                    {
+                        "metric_name": "Housing",
+                        "metric_description": "Population living in slums is the proportion of the urban population living in slum households. A slum household is defined as a group of individuals living under the same roof lacking one or more of the following conditions: access to improved water, access to improved sanitation, sufficient living area, housing durability, and security of tenure.",
+                        "metric_category": "Housing",
+                        "metric_value_ideal": 0,
+                        "metric_id": "EN.POP.SLUM.UR.ZS",
+                        "metric_value_display": 70.6999969482422,
+                        "metric_value_current": 70.6999969482422,
+                        "metric_year": 2018,
+                        "metric_source": "United Nations Human Settlements Programme (UN-HABITAT)"
+                    }
+                ]
+            },
+            {
+                "country_id": "ALB",
+                "country_name": "Albania",
+                "metric": [
+                    {
+                        "metric_name": "Clean cooking",
+                        "metric_description": "Lacking access to clean fuels and technologies for cooking is the proportion of total population primarily lacking access to clean cooking fuels and technologies for cooking. Under WHO guidelines, kerosene is excluded from clean cooking fuels.",
+                        "metric_category": "Energy",
+                        "metric_value_ideal": 0,
+                        "metric_id": "Complementary of EG.CFT.ACCS.ZS",
+                        "metric_value_display": 18.700000000000003,
+                        "metric_value_current": 81.3,
+                        "metric_year": 2020,
+                        "metric_source": "World Bank, Sustainable Energy for All (SE4ALL) database from WHO Global Household Energy database."
+                    },
+                    {
+                        "metric_name": "Electricity",
+                        "metric_description": "Lacking access to electricity is the percentage of population without access to electricity. Electrification data are collected from industry, national surveys and international sources.",
+                        "metric_category": "Energy",
+                        "metric_value_ideal": 0,
+                        "metric_id": "Complementary of EG.ELC.ACCS.ZS",
+                        "metric_value_display": 0,
+                        "metric_value_current": 100,
+                        "metric_year": 2020,
+                        "metric_source": "World Bank, Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking Framework led jointly by the World Bank, International Energy Agency, and the Energy Sector Management Assistance Program."
+                    },
+                    {
+                        "metric_name": "Housing",
+                        "metric_description": "Population living in slums is the proportion of the urban population living in slum households. A slum household is defined as a group of individuals living under the same roof lacking one or more of the following conditions: access to improved water, access to improved sanitation, sufficient living area, housing durability, and security of tenure.",
+                        "metric_category": "Housing",
+                        "metric_value_ideal": 0,
+                        "metric_id": "",
+                        "metric_value_display": null,
+                        "metric_value_current": null,
+                        "metric_year": null,
+                        "metric_source": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "the safe and just space for humanity",
+        "description": "Doughnut: The environmentally safe and socially just space in which humanity can thrive."
+    },
+    {
+        "name": "Ecological Ceiling",
+        "description": "The boundary to ensure that humanity does not collectively overshoot the planetary boundaries that protect Earth's life-supporting systems.",
+        "data": [
+            {
+                "country_id": "AFG",
+                "country_name": "Afghanistan",
+                "metric": [
+                    {
+                        "metric_name": "CO2 Emissions",
+                        "metric_description": "The planetary boundary for climate change is generally expressed as a maximum concentration of CO2 in the atmosphere of 350 ppm, which was crossed in 1988. Atmospheric CO2 concentrations currently exceed 410 ppm.",
+                        "metric_category": "",
+                        "metric_id": "CO2 Emissions",
+                        "metric_value_display": 0.1,
+                        "metric_value_current": 0.1,
+                        "metric_year": 2021,
+                        "metric_source": "Fanning, A.L., O\\u2019Neill, D.W., Hickel, J., and Roux, N. (2021). The social shortfall and ecological overshoot of nations. Nature Sustainability in press. doi:10.1038/s41893-021-00799-z"
+                    },
+                    {
+                        "metric_name": "Phosphorus",
+                        "metric_description": "The planetary boundary for phosphorus is 6.2 Tg P y-1 mined and applied to erodible (agricultural) soils, which was crossed before 1970, and current global phosphorus fertilizer use is more than 14 Tg P y-1.",
+                        "metric_category": "",
+                        "metric_id": "Phosphorus",
+                        "metric_value_display": 2.3,
+                        "metric_value_current": 2.3,
+                        "metric_year": 2021,
+                        "metric_source": "Fanning, A.L., O\\u2019Neill, D.W., Hickel, J., and Roux, N. (2021). The social shortfall and ecological overshoot of nations. Nature Sustainability in press. doi:10.1038/s41893-021-00799-z"
+                    },
+                    {
+                        "metric_name": "Nitrogen",
+                        "metric_description": "The planetary boundary for nitrogen is 62 Tg N y-1 from industrial and intentional biological fixation, which was crossed in the early 1970s, and current global nitrogen fixation is approximately 150 Tg N y-1.",
+                        "metric_category": "",
+                        "metric_id": "Nitrogen",
+                        "metric_value_display": 3.62,
+                        "metric_value_current": 3.62,
+                        "metric_year": 2021,
+                        "metric_source": "Fanning, A.L., O\\u2019Neill, D.W., Hickel, J., and Roux, N. (2021). The social shortfall and ecological overshoot of nations. Nature Sustainability in press. doi:10.1038/s41893-021-00799-z"
+                    },
+                    {
+                        "metric_name": "Land-System Change",
+                        "metric_description": "The planetary boundary for land-system change is defined in terms of the amount of forest cover remaining (depending on forest biome), and it is equivalent to maintaining a minimum of 75% of global original forest cover (or approximately 48 million km2 of ice-free land on Earth), which was crossed before 1990.",
+                        "metric_category": "",
+                        "metric_id": "Land-System Change",
+                        "metric_value_display": 0.27,
+                        "metric_value_current": 0.27,
+                        "metric_year": 2021,
+                        "metric_source": "Fanning, A.L., O\\u2019Neill, D.W., Hickel, J., and Roux, N. (2021). The social shortfall and ecological overshoot of nations. Nature Sustainability in press. doi:10.1038/s41893-021-00799-z"
+                    },
+                    {
+                        "metric_name": "Ecological Footprint",
+                        "metric_description": "The ecological footprint measures how much biologically productive land and sea area a given population requires to produce the natural resources it consumes and to absorb its waste, especially carbon emissions. It is the sum of six components (cropland, forest land, fishing grounds, grazing land, built-up land, and carbon land), and can be compared to biocapacity, which measures the biologically productive land and sea area needed to regenerate all the human demands that compete for a given space (including biotic resources, accommodating houses and roads, and absorbing CO2 emissions from fossil fuels).",
+                        "metric_category": "",
+                        "metric_id": "Ecological Footprint",
+                        "metric_value_display": 0.46,
+                        "metric_value_current": 0.46,
+                        "metric_year": 2021,
+                        "metric_source": "Fanning, A.L., O\\u2019Neill, D.W., Hickel, J., and Roux, N. (2021). The social shortfall and ecological overshoot of nations. Nature Sustainability in press. doi:10.1038/s41893-021-00799-z"
+                    },
+                    {
+                        "metric_name": "Material Footprint",
+                        "metric_description": "The material footprint, also known as \\u201craw material consumption\\u201d (RMC), measures the amount of used material extraction (minerals, fossil fuels, and biomass) associated with the final demand for goods and services, regardless of where that extraction occurs.",
+                        "metric_category": "",
+                        "metric_id": "Material Footprint",
+                        "metric_value_display": 0.19,
+                        "metric_value_current": 0.19,
+                        "metric_year": 2021,
+                        "metric_source": "Fanning, A.L., O\\u2019Neill, D.W., Hickel, J., and Roux, N. (2021). The social shortfall and ecological overshoot of nations. Nature Sustainability in press. doi:10.1038/s41893-021-00799-z"
+                    }
+                ]
+            },
+            {
+                "country_id": "ALB",
+                "country_name": "Albania",
+                "metric": [
+                    {
+                        "metric_name": "CO2 Emissions",
+                        "metric_description": "The planetary boundary for climate change is generally expressed as a maximum concentration of CO2 in the atmosphere of 350 ppm, which was crossed in 1988. Atmospheric CO2 concentrations currently exceed 410 ppm.",
+                        "metric_category": "",
+                        "metric_id": "CO2 Emissions",
+                        "metric_value_display": 0.91,
+                        "metric_value_current": 0.91,
+                        "metric_year": 2021,
+                        "metric_source": "Fanning, A.L., O\\u2019Neill, D.W., Hickel, J., and Roux, N. (2021). The social shortfall and ecological overshoot of nations. Nature Sustainability in press. doi:10.1038/s41893-021-00799-z"
+                    },
+                    {
+                        "metric_name": "Phosphorus",
+                        "metric_description": "The planetary boundary for phosphorus is 6.2 Tg P y-1 mined and applied to erodible (agricultural) soils, which was crossed before 1970, and current global phosphorus fertilizer use is more than 14 Tg P y-1.",
+                        "metric_category": "",
+                        "metric_id": "Phosphorus",
+                        "metric_value_display": 2.27,
+                        "metric_value_current": 2.27,
+                        "metric_year": 2021,
+                        "metric_source": "Fanning, A.L., O\\u2019Neill, D.W., Hickel, J., and Roux, N. (2021). The social shortfall and ecological overshoot of nations. Nature Sustainability in press. doi:10.1038/s41893-021-00799-z"
+                    },
+                    {
+                        "metric_name": "Nitrogen",
+                        "metric_description": "The planetary boundary for nitrogen is 62 Tg N y-1 from industrial and intentional biological fixation, which was crossed in the early 1970s, and current global nitrogen fixation is approximately 150 Tg N y-1.",
+                        "metric_category": "",
+                        "metric_id": "Nitrogen",
+                        "metric_value_display": 2.25,
+                        "metric_value_current": 2.25,
+                        "metric_year": 2021,
+                        "metric_source": "Fanning, A.L., O\\u2019Neill, D.W., Hickel, J., and Roux, N. (2021). The social shortfall and ecological overshoot of nations. Nature Sustainability in press. doi:10.1038/s41893-021-00799-z"
+                    },
+                    {
+                        "metric_name": "Land-System Change",
+                        "metric_description": "The planetary boundary for land-system change is defined in terms of the amount of forest cover remaining (depending on forest biome), and it is equivalent to maintaining a minimum of 75% of global original forest cover (or approximately 48 million km2 of ice-free land on Earth), which was crossed before 1990.",
+                        "metric_category": "",
+                        "metric_id": "Land-System Change",
+                        "metric_value_display": 0.95,
+                        "metric_value_current": 0.95,
+                        "metric_year": 2021,
+                        "metric_source": "Fanning, A.L., O\\u2019Neill, D.W., Hickel, J., and Roux, N. (2021). The social shortfall and ecological overshoot of nations. Nature Sustainability in press. doi:10.1038/s41893-021-00799-z"
+                    },
+                    {
+                        "metric_name": "Ecological Footprint",
+                        "metric_description": "The ecological footprint measures how much biologically productive land and sea area a given population requires to produce the natural resources it consumes and to absorb its waste, especially carbon emissions. It is the sum of six components (cropland, forest land, fishing grounds, grazing land, built-up land, and carbon land), and can be compared to biocapacity, which measures the biologically productive land and sea area needed to regenerate all the human demands that compete for a given space (including biotic resources, accommodating houses and roads, and absorbing CO2 emissions from fossil fuels).",
+                        "metric_category": "",
+                        "metric_id": "Ecological Footprint",
+                        "metric_value_display": 1.34,
+                        "metric_value_current": 1.34,
+                        "metric_year": 2021,
+                        "metric_source": "Fanning, A.L., O\\u2019Neill, D.W., Hickel, J., and Roux, N. (2021). The social shortfall and ecological overshoot of nations. Nature Sustainability in press. doi:10.1038/s41893-021-00799-z"
+                    },
+                    {
+                        "metric_name": "Material Footprint",
+                        "metric_description": "The material footprint, also known as \\u201craw material consumption\\u201d (RMC), measures the amount of used material extraction (minerals, fossil fuels, and biomass) associated with the final demand for goods and services, regardless of where that extraction occurs.",
+                        "metric_category": "",
+                        "metric_id": "Material Footprint",
+                        "metric_value_display": 2,
+                        "metric_value_current": 2,
+                        "metric_year": 2021,
+                        "metric_source": "Fanning, A.L., O\\u2019Neill, D.W., Hickel, J., and Roux, N. (2021). The social shortfall and ecological overshoot of nations. Nature Sustainability in press. doi:10.1038/s41893-021-00799-z"
+                    }
+                ]
+            }
+        ]
+    }
+]
